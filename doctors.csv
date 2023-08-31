@@ -1,0 +1,481 @@
+Doctor Name,Specialization,Education,Experience,Certifications,Hospital Name
+Mrs. Krista Mann MD,Cardiology,MD from Freeman-Cox,10,Board Certified in Cardiology,"Rivera, Lee and Ortiz"
+Laura Smith,Orthopedics,"DO from Porter, Hernandez and Peterson",28,Board Certified in Neurology,"Rivera, Lee and Ortiz"
+Todd Mata,Neurology,DO from Barnes Inc,10,Board Certified in Orthopedics,"Rivera, Lee and Ortiz"
+Jeffery Smith,Orthopedics,"DO from Rojas, Ruiz and Caldwell",4,Board Certified in Orthopedics,"Rivera, Lee and Ortiz"
+Emily Hill,Cardiology,"MD from Lawrence, Walker and Rodriguez",12,Board Certified in Orthopedics,"Rivera, Lee and Ortiz"
+Alexa Hill,Cardiology,"DO from Ross, Allison and Mendoza",4,Board Certified in Orthopedics,"Rivera, Lee and Ortiz"
+Michael Shepard,Neurology,MD from Brown-Stephenson,1,Board Certified in Neurology,"Rivera, Lee and Ortiz"
+Deborah Lopez,Cardiology,DO from Lopez-Brown,26,Board Certified in Neurology,"Rivera, Lee and Ortiz"
+Rachel Moore,Orthopedics,MD from Mendoza-Palmer,20,Board Certified in Neurology,Garcia-Davis
+Larry Becker,Orthopedics,MD from Richardson PLC,16,Board Certified in Neurology,Garcia-Davis
+Jennifer Rodgers,Cardiology,DO from Howard-Harrison,24,Board Certified in Orthopedics,Garcia-Davis
+Shelley Morrison,Neurology,"DO from Barnes, Brown and Hunter",22,Board Certified in Neurology,Garcia-Davis
+Kelsey Mendoza,Neurology,MD from Werner-Murphy,10,Board Certified in Neurology,Garcia-Davis
+Anna Barrera,Orthopedics,MD from Marks-Rodriguez,22,Board Certified in Orthopedics,Garcia-Davis
+Anthony Johnson,Orthopedics,"MD from Gordon, Richards and Walker",25,Board Certified in Orthopedics,Garcia-Davis
+Brooke Walton,Neurology,DO from Cook Ltd,3,Board Certified in Orthopedics,Garcia-Davis
+Christopher Aguilar,Neurology,MD from Richards Inc,22,Board Certified in Neurology,Foster-Jackson
+Jacob Dixon,Neurology,MD from Williams-Terry,10,Board Certified in Neurology,Foster-Jackson
+Daniel Watkins,Neurology,MD from Francis-Fisher,21,Board Certified in Orthopedics,Foster-Jackson
+Rodney Gomez,Neurology,DO from Payne Group,19,Board Certified in Orthopedics,Foster-Jackson
+Joann Vaughn,Cardiology,DO from Smith PLC,23,Board Certified in Orthopedics,Foster-Jackson
+Jennifer Rhodes,Neurology,"DO from Thompson, Ewing and Harrington",11,Board Certified in Cardiology,"Burke, Garcia and Holland"
+Thomas Thomas,Neurology,"MD from Flynn, Alexander and Zuniga",29,Board Certified in Neurology,"Burke, Garcia and Holland"
+Anthony Barry,Cardiology,MD from Murphy Ltd,15,Board Certified in Orthopedics,"Burke, Garcia and Holland"
+Joseph Jones,Neurology,DO from Ford-Morris,11,Board Certified in Orthopedics,"Burke, Garcia and Holland"
+Deanna Garcia,Cardiology,"DO from Patrick, Kim and Patel",23,Board Certified in Neurology,"Burke, Garcia and Holland"
+Janice Green,Cardiology,MD from Baldwin and Sons,14,Board Certified in Orthopedics,"Burke, Garcia and Holland"
+Luis Stevenson,Neurology,"DO from Smith, Reynolds and Green",9,Board Certified in Cardiology,"Burke, Garcia and Holland"
+Ariel Howard,Neurology,"DO from Rodriguez, Peterson and Garrett",27,Board Certified in Orthopedics,"Rogers, King and Mclaughlin"
+Gloria Fisher,Orthopedics,DO from Jones-Obrien,15,Board Certified in Orthopedics,"Rogers, King and Mclaughlin"
+Jared Williams,Cardiology,"MD from Morton, Underwood and Morgan",20,Board Certified in Neurology,"Rogers, King and Mclaughlin"
+Tammy Frey,Neurology,DO from Bryant Group,4,Board Certified in Orthopedics,"Rogers, King and Mclaughlin"
+Crystal Farley,Orthopedics,MD from Dalton Ltd,5,Board Certified in Orthopedics,"Rogers, King and Mclaughlin"
+Sabrina Obrien,Cardiology,MD from Drake-Torres,6,Board Certified in Cardiology,"Rogers, King and Mclaughlin"
+Bobby Brown,Neurology,"DO from Stewart, Allen and Nelson",20,Board Certified in Neurology,"Rogers, King and Mclaughlin"
+Jonathan Walton,Orthopedics,DO from Martinez LLC,21,Board Certified in Orthopedics,Gibson-Lee
+Sean Blake,Cardiology,MD from Webster Group,28,Board Certified in Cardiology,Gibson-Lee
+Candace Butler,Orthopedics,DO from Rhodes-Williams,3,Board Certified in Cardiology,Gibson-Lee
+Tyler Conrad,Cardiology,"MD from Fuller, Crawford and Colon",8,Board Certified in Orthopedics,Gibson-Lee
+Crystal Howard,Orthopedics,MD from Clark-Carpenter,25,Board Certified in Orthopedics,Gibson-Lee
+Nicholas Baird,Neurology,DO from Shaw-King,13,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Jared Smith,Neurology,MD from Davies-Woodward,15,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Sandra Brown,Neurology,MD from Villarreal LLC,5,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Michael Bass MD,Orthopedics,DO from Brown PLC,26,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Valerie Marsh,Cardiology,"MD from Murillo, Floyd and Hall",3,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Chelsea Patel,Cardiology,MD from Bennett-Brown,4,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Matthew Floyd,Cardiology,MD from Martinez Inc,30,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Zachary Meyer,Orthopedics,DO from Morris-Holloway,14,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Dawn Zimmerman,Cardiology,MD from Beasley-Perez,2,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Geoffrey Stevenson,Orthopedics,"DO from Nichols, Riley and Hughes",11,Board Certified in Cardiology,"Medina, Lewis and Mccoy"
+Julie Powers,Orthopedics,MD from Ewing Group,12,Board Certified in Neurology,"Medina, Lewis and Mccoy"
+Elizabeth Steele,Neurology,"MD from Goodwin, Daniels and Andrews",8,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Katherine Perkins,Cardiology,"DO from Hunt, Green and Meyer",30,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Sandra Thomas,Orthopedics,DO from Evans Group,16,Board Certified in Orthopedics,"Medina, Lewis and Mccoy"
+Tina Chen,Cardiology,DO from Garcia PLC,12,Board Certified in Cardiology,Eaton Group
+Lauren Cook,Neurology,MD from Lang-Walsh,21,Board Certified in Cardiology,Eaton Group
+Melissa Harris,Cardiology,MD from Cantu-Freeman,1,Board Certified in Orthopedics,Eaton Group
+Lynn Turner,Cardiology,"DO from Anderson, Miller and Summers",7,Board Certified in Cardiology,Eaton Group
+Kelsey Malone,Orthopedics,MD from Jones Inc,17,Board Certified in Orthopedics,Eaton Group
+Jacqueline Phillips,Neurology,"DO from Reynolds, Singh and Thompson",14,Board Certified in Cardiology,Eaton Group
+Daniel Flores,Neurology,"DO from Sanders, Turner and Ray",13,Board Certified in Orthopedics,Eaton Group
+Elizabeth Reynolds,Cardiology,MD from Flores-Gonzalez,13,Board Certified in Neurology,Eaton Group
+Gary Harrison,Cardiology,MD from Rodriguez Inc,26,Board Certified in Cardiology,"Gordon, Ford and Tucker"
+Alexander Pope,Neurology,MD from Burke LLC,11,Board Certified in Orthopedics,"Gordon, Ford and Tucker"
+Joseph Stone,Cardiology,"MD from Branch, Garcia and Morrow",1,Board Certified in Orthopedics,"Gordon, Ford and Tucker"
+Carolyn Gonzalez,Orthopedics,"DO from Blair, Benton and Zavala",14,Board Certified in Orthopedics,"Gordon, Ford and Tucker"
+Christina Perez,Orthopedics,"MD from Brown, Woods and Martinez",8,Board Certified in Neurology,"Gordon, Ford and Tucker"
+Michael Rodriguez,Neurology,MD from Farley and Sons,28,Board Certified in Cardiology,"Gordon, Ford and Tucker"
+Joseph Booth,Cardiology,MD from Rice Inc,28,Board Certified in Neurology,"Gordon, Ford and Tucker"
+Christopher Haley,Cardiology,DO from Scott Inc,26,Board Certified in Neurology,"Gordon, Ford and Tucker"
+Michael Hopkins,Cardiology,"DO from Hernandez, Woods and Abbott",23,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Kaylee Forbes,Neurology,"DO from Sullivan, Rivera and Rangel",14,Board Certified in Neurology,"Ware, Terry and Moss"
+Catherine Robinson,Cardiology,"MD from Burns, Patrick and Mcfarland",17,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Patrick Brown,Cardiology,MD from Gonzalez-Morris,27,Board Certified in Neurology,"Ware, Terry and Moss"
+Ashley Levine,Orthopedics,MD from Cain Inc,6,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Jessica Norton,Cardiology,"DO from Kramer, Hill and Kelly",2,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Sarah Johnson,Orthopedics,DO from Lee Inc,18,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Angela Cannon,Orthopedics,DO from Smith-Williams,7,Board Certified in Cardiology,"Ware, Terry and Moss"
+Joseph Thomas,Orthopedics,MD from Lawrence Group,16,Board Certified in Cardiology,"Ware, Terry and Moss"
+Matthew Johnson,Orthopedics,MD from Martin LLC,4,Board Certified in Neurology,"Ware, Terry and Moss"
+Lauren Wilson,Neurology,"DO from Morris, Johnson and Johnson",27,Board Certified in Orthopedics,"Ware, Terry and Moss"
+Ryan Wilson,Cardiology,MD from Turner and Sons,27,Board Certified in Neurology,"Ware, Terry and Moss"
+Kristy Ingram,Orthopedics,"MD from Yang, Jordan and Ayala",22,Board Certified in Neurology,"Ware, Terry and Moss"
+Brian Robinson,Orthopedics,DO from Randall Group,13,Board Certified in Orthopedics,Wilson-Mcguire
+Kevin Simmons,Neurology,"MD from Sanchez, White and Cook",5,Board Certified in Orthopedics,Wilson-Mcguire
+David Velez,Neurology,DO from Yates-Rice,29,Board Certified in Orthopedics,Wilson-Mcguire
+Rebecca Myers,Orthopedics,"MD from Sloan, Bush and Young",2,Board Certified in Orthopedics,Wilson-Mcguire
+Robert Sherman,Orthopedics,DO from Acevedo and Sons,30,Board Certified in Cardiology,Wilson-Mcguire
+Jane Young,Neurology,"DO from Garcia, Watson and Cobb",22,Board Certified in Neurology,Wilson-Mcguire
+Joseph Foster,Cardiology,DO from Quinn-Gibson,28,Board Certified in Orthopedics,Wilson-Mcguire
+Megan Martin,Orthopedics,"DO from Smith, Wolf and Waller",23,Board Certified in Orthopedics,Wilson-Mcguire
+Brandon Walsh,Neurology,"DO from Brown, Park and Edwards",7,Board Certified in Orthopedics,Wilson-Mcguire
+Jonathan Dean,Cardiology,DO from Davis Ltd,20,Board Certified in Cardiology,Wilson-Mcguire
+Michael Santiago,Neurology,DO from Brown Inc,29,Board Certified in Neurology,Meza-Rivera
+Elizabeth Garner,Cardiology,MD from Harrison Inc,24,Board Certified in Orthopedics,Meza-Rivera
+Larry King MD,Neurology,"DO from Mathis, Prince and Smith",4,Board Certified in Orthopedics,Meza-Rivera
+Jonathan Russo,Cardiology,"DO from Garcia, Fisher and Cox",9,Board Certified in Orthopedics,Meza-Rivera
+Ashley Chung,Cardiology,DO from Walsh-Underwood,25,Board Certified in Cardiology,Meza-Rivera
+Elizabeth Griffith,Orthopedics,DO from Burke-Brown,15,Board Certified in Neurology,Meza-Rivera
+Lynn Cunningham,Neurology,DO from Rodriguez Inc,18,Board Certified in Orthopedics,Meza-Rivera
+Anna Scott,Cardiology,DO from Martin-Lee,23,Board Certified in Cardiology,Meza-Rivera
+Corey Reynolds,Neurology,DO from Matthews LLC,29,Board Certified in Orthopedics,Meza-Rivera
+Justin Reyes,Orthopedics,MD from Richardson Group,24,Board Certified in Orthopedics,Meza-Rivera
+Kim Burnett,Neurology,"DO from Wise, Williams and Henry",4,Board Certified in Neurology,Meza-Rivera
+Kevin Mosley,Orthopedics,"DO from Castro, Wagner and Roberts",8,Board Certified in Cardiology,Meza-Rivera
+Dawn Bailey,Orthopedics,DO from Kennedy LLC,17,Board Certified in Cardiology,Meza-Rivera
+David Hansen,Cardiology,"MD from Kim, Johnson and Salinas",25,Board Certified in Orthopedics,Meza-Rivera
+Cory Chambers,Neurology,DO from Torres Ltd,15,Board Certified in Neurology,Meza-Rivera
+Jeffrey Newman,Cardiology,DO from Ware PLC,27,Board Certified in Orthopedics,"Arnold, Martinez and Butler"
+James Nelson,Neurology,DO from Gomez LLC,12,Board Certified in Neurology,"Arnold, Martinez and Butler"
+Jessica Dunn,Orthopedics,"DO from Jackson, Wilkinson and Patel",17,Board Certified in Orthopedics,"Arnold, Martinez and Butler"
+Donna Hensley,Neurology,DO from Graham-Burns,3,Board Certified in Orthopedics,"Arnold, Martinez and Butler"
+Benjamin Hudson,Cardiology,MD from Todd Group,28,Board Certified in Cardiology,"Arnold, Martinez and Butler"
+Shane Roberts,Orthopedics,DO from Montgomery Inc,3,Board Certified in Orthopedics,"Arnold, Martinez and Butler"
+Hannah Anderson,Orthopedics,DO from Johnson-Taylor,11,Board Certified in Cardiology,"Arnold, Martinez and Butler"
+Samuel Miller,Orthopedics,DO from Robertson PLC,11,Board Certified in Orthopedics,"Arnold, Martinez and Butler"
+Paula Parks,Orthopedics,MD from Thomas-Flowers,26,Board Certified in Neurology,"Obrien, Rice and Guzman"
+Bradley Lopez,Neurology,"MD from Lopez, Mendoza and Henson",25,Board Certified in Orthopedics,"Obrien, Rice and Guzman"
+Matthew Hansen,Cardiology,"DO from Spencer, Dalton and Wagner",26,Board Certified in Cardiology,"Obrien, Rice and Guzman"
+Lynn Price,Neurology,MD from Fox Ltd,22,Board Certified in Orthopedics,"Obrien, Rice and Guzman"
+Steven Ramos,Neurology,"MD from Davis, Wood and Mills",7,Board Certified in Neurology,"Obrien, Rice and Guzman"
+Jennifer Morgan,Cardiology,"DO from Martin, Murphy and Lewis",9,Board Certified in Neurology,"Obrien, Rice and Guzman"
+Angela Mcguire,Cardiology,DO from Gates Inc,8,Board Certified in Neurology,"Obrien, Rice and Guzman"
+Donald Zuniga,Cardiology,"DO from Aguirre, Fowler and Hunt",27,Board Certified in Cardiology,"Obrien, Rice and Guzman"
+Joseph Bonilla,Orthopedics,MD from Johnson PLC,26,Board Certified in Orthopedics,"Obrien, Rice and Guzman"
+Frank Khan,Cardiology,MD from Bennett Ltd,30,Board Certified in Cardiology,"Obrien, Rice and Guzman"
+Donna Rodriguez,Orthopedics,DO from Rowe LLC,29,Board Certified in Cardiology,"Obrien, Rice and Guzman"
+Jay Curry,Neurology,DO from Snow-Thompson,2,Board Certified in Neurology,"Obrien, Rice and Guzman"
+Alejandra Moyer,Orthopedics,MD from Green Ltd,19,Board Certified in Orthopedics,"Obrien, Rice and Guzman"
+Kayla Johnson,Orthopedics,DO from Smith PLC,21,Board Certified in Neurology,"Hunter, Rodriguez and Howard"
+Anthony Atkins,Neurology,DO from Wood-Parks,12,Board Certified in Neurology,"Hunter, Rodriguez and Howard"
+Eric Gillespie,Cardiology,MD from Miller-Doyle,16,Board Certified in Neurology,"Hunter, Rodriguez and Howard"
+John Dixon,Cardiology,DO from Schmidt Ltd,4,Board Certified in Orthopedics,"Hunter, Rodriguez and Howard"
+Natasha Pratt,Orthopedics,"DO from Small, Hall and Hernandez",18,Board Certified in Orthopedics,"Hunter, Rodriguez and Howard"
+Phillip Richards,Cardiology,"DO from Johnson, Tyler and Sharp",12,Board Certified in Orthopedics,"Hunter, Rodriguez and Howard"
+Jordan Anderson,Cardiology,"DO from Mcdonald, Campbell and Alvarez",16,Board Certified in Cardiology,"Hunter, Rodriguez and Howard"
+Sara Robinson,Orthopedics,MD from Erickson Group,8,Board Certified in Cardiology,"Hunter, Rodriguez and Howard"
+Kristin Acevedo,Orthopedics,MD from Brooks and Sons,6,Board Certified in Orthopedics,"Hunter, Rodriguez and Howard"
+Amanda Andrews,Neurology,DO from Ortega Inc,16,Board Certified in Orthopedics,"Hunter, Rodriguez and Howard"
+Joseph Pena,Orthopedics,"DO from Davis, Lawson and Curry",27,Board Certified in Cardiology,"Hunter, Rodriguez and Howard"
+Krystal Jenkins,Neurology,DO from Orr Inc,8,Board Certified in Neurology,Le-Dominguez
+Katherine Nielsen,Neurology,MD from Perez Group,28,Board Certified in Orthopedics,Le-Dominguez
+Paul Fox,Neurology,DO from Hill Ltd,5,Board Certified in Orthopedics,Le-Dominguez
+Joshua Hanson,Orthopedics,"MD from Rose, Morgan and Green",4,Board Certified in Orthopedics,Le-Dominguez
+Kerry Stanley,Orthopedics,MD from Phillips-Jones,6,Board Certified in Orthopedics,Le-Dominguez
+Dr. Samuel Adams,Neurology,MD from Bowen and Sons,20,Board Certified in Orthopedics,Le-Dominguez
+Brandi Thompson,Orthopedics,DO from Brown PLC,8,Board Certified in Cardiology,Le-Dominguez
+Samuel Romero,Neurology,"DO from Ramsey, Reyes and Anderson",14,Board Certified in Orthopedics,Le-Dominguez
+Lawrence Patterson,Orthopedics,MD from Walker-Wood,27,Board Certified in Orthopedics,Le-Dominguez
+James Hill,Orthopedics,DO from Porter LLC,30,Board Certified in Orthopedics,Le-Dominguez
+Anthony Smith,Neurology,DO from Graham PLC,3,Board Certified in Neurology,Le-Dominguez
+Austin Harris Jr.,Neurology,MD from Olson-Lee,18,Board Certified in Cardiology,Le-Dominguez
+Walter Williams,Neurology,DO from Hernandez-Miller,23,Board Certified in Neurology,Reynolds-Blair
+Tom Morris,Neurology,DO from Golden and Sons,17,Board Certified in Neurology,Reynolds-Blair
+Miguel Hopkins,Cardiology,MD from Stewart-Moore,14,Board Certified in Cardiology,Reynolds-Blair
+William Ramos,Cardiology,MD from Miller Group,13,Board Certified in Cardiology,Reynolds-Blair
+Maria Baird,Neurology,MD from Boyd PLC,26,Board Certified in Neurology,Reynolds-Blair
+Tracy Brown,Cardiology,MD from Gallegos Group,17,Board Certified in Neurology,Reynolds-Blair
+Carl Page,Cardiology,"MD from Benson, Hurley and May",25,Board Certified in Cardiology,Reynolds-Blair
+Vincent Brown,Neurology,"MD from Smith, Mcdowell and Sullivan",10,Board Certified in Cardiology,Reynolds-Blair
+Kevin Lara,Cardiology,"MD from Collins, James and Humphrey",27,Board Certified in Cardiology,Reynolds-Blair
+Juan Wilson,Neurology,DO from Sanders Group,9,Board Certified in Cardiology,Lane-Cox
+Hannah Chavez,Orthopedics,DO from Smith Group,1,Board Certified in Cardiology,Lane-Cox
+Jennifer Douglas,Cardiology,MD from Jones LLC,6,Board Certified in Neurology,Lane-Cox
+Donald Evans,Cardiology,DO from Oliver-Massey,26,Board Certified in Cardiology,Lane-Cox
+Jason Galvan Jr.,Orthopedics,MD from Hernandez Ltd,18,Board Certified in Cardiology,Lane-Cox
+Jacob Porter,Cardiology,"DO from Zhang, Hughes and Ross",19,Board Certified in Neurology,Lane-Cox
+Erin Campbell,Orthopedics,DO from Foley-Kennedy,20,Board Certified in Orthopedics,Lane-Cox
+Renee Brown,Neurology,MD from Logan LLC,16,Board Certified in Orthopedics,Lane-Cox
+Brenda Wilson,Neurology,"DO from Roberts, Lam and Barr",17,Board Certified in Orthopedics,Lane-Cox
+Elizabeth Rodriguez,Cardiology,DO from Gonzales-Ryan,3,Board Certified in Neurology,Lane-Cox
+Danielle Ferguson,Neurology,DO from Hernandez-Page,30,Board Certified in Neurology,Lane-Cox
+Crystal Hayes,Orthopedics,MD from Simmons-Sims,14,Board Certified in Orthopedics,Lane-Cox
+Wanda Jackson,Neurology,MD from Moore Inc,24,Board Certified in Cardiology,Lane-Cox
+Lauren Davis,Neurology,MD from Henderson Ltd,29,Board Certified in Neurology,Lane-Cox
+Ashley Cox,Neurology,DO from Webb-Gordon,1,Board Certified in Orthopedics,Manning and Sons
+John Miller,Orthopedics,MD from Pittman-Clark,21,Board Certified in Cardiology,Manning and Sons
+Brian West,Cardiology,MD from Estrada-Edwards,25,Board Certified in Orthopedics,Manning and Sons
+Jordan Morgan,Cardiology,MD from Simon-Farmer,3,Board Certified in Cardiology,Manning and Sons
+Brandon Valentine,Cardiology,MD from Tate-Arnold,9,Board Certified in Cardiology,Manning and Sons
+Megan Brown,Cardiology,MD from Romero Inc,19,Board Certified in Orthopedics,Manning and Sons
+Adam Meyer,Orthopedics,DO from Bush Ltd,6,Board Certified in Neurology,Manning and Sons
+Anthony Cummings,Orthopedics,MD from Henderson Ltd,3,Board Certified in Cardiology,Manning and Sons
+Yolanda Davis,Neurology,DO from Barnett-Johnson,25,Board Certified in Orthopedics,Manning and Sons
+Vicki Gray,Neurology,"DO from Oneal, Robertson and Vasquez",27,Board Certified in Orthopedics,Manning and Sons
+Veronica Meyer,Orthopedics,MD from Olsen Group,10,Board Certified in Neurology,Harmon PLC
+Kelly Robertson,Orthopedics,DO from Nichols-Boyd,20,Board Certified in Neurology,Harmon PLC
+Amanda Thomas,Neurology,DO from Johnson Group,15,Board Certified in Orthopedics,Harmon PLC
+Joseph Miles,Orthopedics,DO from Duffy-Nelson,17,Board Certified in Cardiology,Harmon PLC
+Christopher Miller,Cardiology,MD from Maxwell LLC,19,Board Certified in Cardiology,Harmon PLC
+Roy Yates,Cardiology,"DO from Villegas, Greene and Martinez",15,Board Certified in Orthopedics,Harmon PLC
+Derrick Rogers,Neurology,"DO from Warren, Williams and Carter",29,Board Certified in Neurology,Harmon PLC
+Roberto Walker,Orthopedics,DO from Buchanan PLC,13,Board Certified in Cardiology,Harmon PLC
+Marissa Chang,Orthopedics,"DO from Moss, Page and Coleman",16,Board Certified in Orthopedics,Harmon PLC
+Michelle Davis,Orthopedics,MD from Kirby-Morgan,28,Board Certified in Cardiology,Harmon PLC
+Matthew Burke,Orthopedics,"DO from Hernandez, Matthews and Wilson",14,Board Certified in Cardiology,Harmon PLC
+Nicole Garrison,Orthopedics,"MD from Walker, Harrell and Robertson",1,Board Certified in Neurology,Harmon PLC
+Jessica Bradford,Orthopedics,MD from Burnett Ltd,28,Board Certified in Orthopedics,Harmon PLC
+Laura Liu,Neurology,DO from Thomas Ltd,16,Board Certified in Orthopedics,Harmon PLC
+Kelly Shaw,Cardiology,MD from Reed-Garza,19,Board Certified in Orthopedics,Lopez Inc
+Tamara Foster,Cardiology,DO from James PLC,26,Board Certified in Neurology,Lopez Inc
+Benjamin Johnson,Orthopedics,DO from Stevenson-Kirk,27,Board Certified in Orthopedics,Lopez Inc
+Joshua Ford,Neurology,"DO from Brown, Livingston and Kim",9,Board Certified in Neurology,Lopez Inc
+Derrick Rocha,Cardiology,"MD from Rodriguez, Humphrey and Hancock",4,Board Certified in Cardiology,Lopez Inc
+Donna Morrison,Orthopedics,MD from Baird-Brown,16,Board Certified in Orthopedics,Lopez Inc
+Justin Gibson,Cardiology,MD from Moore-Martinez,8,Board Certified in Orthopedics,Lopez Inc
+Jimmy Monroe,Orthopedics,MD from Hernandez Group,5,Board Certified in Orthopedics,Lopez Inc
+Michelle Walters PhD,Neurology,MD from Hayes-Knight,6,Board Certified in Cardiology,Lopez Inc
+Kimberly Farrell,Cardiology,DO from Nunez Inc,9,Board Certified in Neurology,Hubbard and Sons
+Kelli Middleton,Cardiology,DO from Perry-Bailey,23,Board Certified in Neurology,Hubbard and Sons
+Richard Barton,Neurology,MD from Bond-Coleman,8,Board Certified in Neurology,Hubbard and Sons
+Paul Reed,Orthopedics,DO from Hall and Sons,9,Board Certified in Orthopedics,Hubbard and Sons
+John Dunn,Cardiology,"MD from Johnson, Wolf and Allen",30,Board Certified in Neurology,Hubbard and Sons
+Caleb Jones,Cardiology,DO from Clark-Clay,13,Board Certified in Cardiology,Hubbard and Sons
+Robert Young,Orthopedics,DO from Campbell Group,2,Board Certified in Cardiology,Hubbard and Sons
+Christopher Nunez,Cardiology,"DO from Bell, Ramos and Ashley",8,Board Certified in Neurology,Hubbard and Sons
+Justin Dyer,Cardiology,"MD from Gonzalez, Williams and Dougherty",8,Board Certified in Neurology,Hubbard and Sons
+Catherine King,Cardiology,DO from Gonzalez PLC,11,Board Certified in Orthopedics,Hubbard and Sons
+Steven Taylor,Cardiology,"MD from Dunlap, Rice and Murphy",9,Board Certified in Cardiology,Hubbard and Sons
+Cameron Velasquez,Neurology,"MD from Smith, Hall and Stephenson",2,Board Certified in Cardiology,Hubbard and Sons
+Emily Delacruz,Cardiology,DO from Gilbert Ltd,15,Board Certified in Neurology,Hubbard and Sons
+Dan Lee,Cardiology,"DO from Zhang, Banks and Moore",18,Board Certified in Neurology,Hubbard and Sons
+Thomas Alexander,Neurology,"DO from Richardson, Jackson and Wagner",27,Board Certified in Cardiology,Hubbard and Sons
+Angela Griffin,Orthopedics,MD from Frank LLC,17,Board Certified in Neurology,Williams Ltd
+Reginald Carter,Cardiology,MD from Pruitt and Sons,25,Board Certified in Orthopedics,Williams Ltd
+Kelsey Kline,Neurology,MD from Nguyen and Sons,11,Board Certified in Orthopedics,Williams Ltd
+Kristi Terry,Neurology,DO from Moody-Wade,15,Board Certified in Neurology,Williams Ltd
+Ryan Stone,Orthopedics,"DO from Hicks, Clark and Howard",30,Board Certified in Cardiology,Williams Ltd
+William Munoz,Orthopedics,MD from Bennett-Martinez,3,Board Certified in Cardiology,Williams Ltd
+Amy York,Neurology,DO from Nunez LLC,30,Board Certified in Neurology,Williams Ltd
+Michael Lewis,Orthopedics,MD from Rodriguez Ltd,13,Board Certified in Orthopedics,Williams Ltd
+Wendy Elliott,Cardiology,DO from Gould-Gonzalez,2,Board Certified in Cardiology,Williams Ltd
+Ronald Andersen,Cardiology,"MD from Hudson, Clark and Pierce",10,Board Certified in Neurology,Williams Ltd
+Hannah Collins,Orthopedics,"MD from Dennis, Thompson and Krause",23,Board Certified in Orthopedics,Williams Ltd
+Jessica Freeman,Cardiology,"MD from Herrera, Black and Green",17,Board Certified in Orthopedics,Williams Ltd
+Austin Kim,Cardiology,MD from Cochran PLC,10,Board Certified in Cardiology,Cameron and Sons
+Terry Russo,Neurology,"MD from Nelson, Klein and Gilbert",15,Board Certified in Orthopedics,Cameron and Sons
+Bonnie Kelly,Orthopedics,DO from Spencer-Robles,18,Board Certified in Neurology,Cameron and Sons
+Ashley Gomez,Orthopedics,"MD from Tran, Turner and Hansen",13,Board Certified in Neurology,Cameron and Sons
+David Lewis,Neurology,"DO from Anderson, Livingston and Harris",28,Board Certified in Orthopedics,Cameron and Sons
+Cindy Le,Neurology,MD from Smith Group,28,Board Certified in Cardiology,Cameron and Sons
+Charles Jordan,Neurology,MD from Moore Ltd,13,Board Certified in Orthopedics,Bradley-Stevens
+Matthew Doyle,Neurology,DO from Lewis Ltd,17,Board Certified in Cardiology,Bradley-Stevens
+Joseph Bell,Orthopedics,DO from Wiggins Ltd,18,Board Certified in Cardiology,Bradley-Stevens
+Mary Forbes,Orthopedics,DO from Cooper-Love,19,Board Certified in Cardiology,Bradley-Stevens
+Kevin Floyd,Neurology,DO from Perez PLC,22,Board Certified in Orthopedics,Bradley-Stevens
+Michelle Martin,Orthopedics,"MD from Vasquez, Dorsey and Yang",27,Board Certified in Orthopedics,Bradley-Stevens
+Edwin Vazquez,Orthopedics,MD from Morales and Sons,14,Board Certified in Orthopedics,Bradley-Stevens
+Katie Sexton,Cardiology,"MD from Salazar, Montgomery and Bell",16,Board Certified in Orthopedics,Bradley-Stevens
+Steven Rush,Neurology,DO from Finley Ltd,16,Board Certified in Cardiology,Bradley-Stevens
+Karen Bryan,Cardiology,"DO from Byrd, Rodriguez and Lopez",26,Board Certified in Orthopedics,Bradley-Stevens
+Karen Johnson,Orthopedics,MD from Nixon Inc,28,Board Certified in Cardiology,Bradley-Stevens
+Bruce Black,Orthopedics,MD from Green Group,8,Board Certified in Cardiology,Bradley-Stevens
+Dylan Pugh,Orthopedics,DO from Wheeler-Brown,5,Board Certified in Neurology,Bradley-Stevens
+Brandon Andrews,Orthopedics,DO from Ramirez PLC,10,Board Certified in Orthopedics,Bradley-Stevens
+Daniel Knight,Orthopedics,MD from Bradshaw-Baker,8,Board Certified in Neurology,Palmer-Roach
+Lisa Jones,Cardiology,MD from Nelson Inc,15,Board Certified in Cardiology,Palmer-Roach
+Joanna Barr,Orthopedics,"MD from Johnson, Gibson and Gibson",4,Board Certified in Cardiology,Palmer-Roach
+Andrew Barber,Orthopedics,"DO from Clark, Martin and Thompson",8,Board Certified in Orthopedics,Palmer-Roach
+Tara Lee,Orthopedics,DO from Steele Group,1,Board Certified in Neurology,Palmer-Roach
+Joel Anderson,Orthopedics,DO from Rodriguez-Harper,5,Board Certified in Orthopedics,Palmer-Roach
+Janice Hurley,Cardiology,MD from Brandt-Rogers,19,Board Certified in Orthopedics,"Parker, Middleton and Dixon"
+Cindy Hill,Orthopedics,"MD from Anderson, Ramirez and Bush",23,Board Certified in Orthopedics,"Parker, Middleton and Dixon"
+Carla Henson,Cardiology,MD from Jackson-Wade,10,Board Certified in Cardiology,"Parker, Middleton and Dixon"
+Karen Coleman,Cardiology,MD from Clements-Lewis,22,Board Certified in Orthopedics,"Parker, Middleton and Dixon"
+Andres Myers,Neurology,MD from Campbell-Wang,7,Board Certified in Orthopedics,"Parker, Middleton and Dixon"
+Ann Hurst,Cardiology,DO from Molina-Perez,4,Board Certified in Cardiology,Moore-Jones
+Michael Wilson,Neurology,DO from Gray-Garcia,20,Board Certified in Orthopedics,Moore-Jones
+Regina Lee,Orthopedics,DO from Mcdonald-Morales,1,Board Certified in Orthopedics,Moore-Jones
+David Warren,Cardiology,"MD from White, Santos and Combs",30,Board Certified in Cardiology,Moore-Jones
+Lauren Williams,Cardiology,DO from Santiago PLC,15,Board Certified in Neurology,Moore-Jones
+Joshua Kim,Neurology,MD from Lucas Ltd,10,Board Certified in Orthopedics,Moore-Jones
+Brianna Waters,Cardiology,DO from Lee-Blake,20,Board Certified in Cardiology,Moore-Jones
+Kimberly Palmer,Neurology,"MD from Snyder, Smith and Wilson",4,Board Certified in Cardiology,Moore-Jones
+Louis Scott,Cardiology,MD from Mcclure-Hamilton,10,Board Certified in Neurology,Briggs and Sons
+Gary Graham Jr.,Neurology,"MD from Lewis, Ryan and Davis",15,Board Certified in Neurology,Briggs and Sons
+Emily Mcgrath,Orthopedics,MD from Williams-Frazier,18,Board Certified in Orthopedics,Briggs and Sons
+Mariah Ward,Neurology,DO from Franklin-Smith,24,Board Certified in Neurology,Briggs and Sons
+Antonio Carter,Neurology,MD from Romero-Vasquez,2,Board Certified in Cardiology,Briggs and Sons
+Deanna Sanchez,Cardiology,DO from Beard-Reed,7,Board Certified in Orthopedics,Lee-Riley
+Henry Moore,Neurology,"MD from Wolfe, Cox and Wallace",22,Board Certified in Neurology,Lee-Riley
+Jessica Grant,Neurology,"DO from Erickson, Johnson and Murray",4,Board Certified in Neurology,Lee-Riley
+Cody Myers,Cardiology,DO from Bennett and Sons,7,Board Certified in Orthopedics,Lee-Riley
+Mr. Brian Blackburn,Orthopedics,"DO from Chen, Keller and Lin",11,Board Certified in Neurology,Lee-Riley
+Timothy Graves,Orthopedics,"DO from Phillips, May and Carpenter",11,Board Certified in Orthopedics,Lee-Riley
+Sarah Wagner,Cardiology,DO from Vance-Carter,18,Board Certified in Cardiology,Lee-Riley
+Misty Williams,Orthopedics,"MD from Carroll, Ortiz and Frederick",10,Board Certified in Cardiology,Lee-Riley
+Tina Rogers,Orthopedics,DO from Hahn Inc,5,Board Certified in Neurology,Lee-Riley
+Brenda Martinez,Orthopedics,DO from Drake-Duncan,6,Board Certified in Neurology,Lee-Riley
+Kelsey Thompson,Orthopedics,DO from Williams-Gross,19,Board Certified in Orthopedics,Lee-Riley
+Heather Jones,Orthopedics,DO from Bell-Santiago,15,Board Certified in Neurology,Lee-Riley
+Kellie Haney,Cardiology,"DO from Thomas, Shields and Petersen",29,Board Certified in Cardiology,Lee-Riley
+Michael Kent,Orthopedics,"MD from Gallagher, Johnson and Burns",2,Board Certified in Orthopedics,Lee-Riley
+Paul Jones,Cardiology,DO from Thompson-Gutierrez,14,Board Certified in Orthopedics,Lee-Riley
+James Grant,Cardiology,MD from Henry Group,14,Board Certified in Cardiology,Tran-Martin
+Sharon Cooper,Cardiology,MD from Anderson Group,17,Board Certified in Orthopedics,Tran-Martin
+Rachel Joseph,Orthopedics,DO from Yates-Davis,24,Board Certified in Cardiology,Tran-Martin
+Erin Peterson MD,Cardiology,DO from Mitchell and Sons,8,Board Certified in Orthopedics,Tran-Martin
+Christina Richardson,Cardiology,"DO from Alexander, Barton and Hernandez",23,Board Certified in Cardiology,Tran-Martin
+Julia Herrera,Neurology,DO from Clements LLC,5,Board Certified in Cardiology,Tran-Martin
+Justin Thompson,Cardiology,MD from Lara-Melendez,5,Board Certified in Cardiology,Tran-Martin
+Jeremy Lozano,Cardiology,"MD from Sims, Warren and Parks",29,Board Certified in Neurology,Tran-Martin
+Melissa Grant,Orthopedics,MD from Kennedy-Bruce,22,Board Certified in Orthopedics,Tran-Martin
+Denise Beck,Orthopedics,"DO from Lindsey, Ward and Ford",4,Board Certified in Cardiology,Tran-Martin
+Mallory Scott DVM,Neurology,MD from Henson-Mercer,27,Board Certified in Orthopedics,Young-Davis
+Logan Williams,Cardiology,MD from Santiago and Sons,14,Board Certified in Orthopedics,Young-Davis
+Brian Barnes,Orthopedics,"DO from Burgess, Wilson and Brady",20,Board Certified in Neurology,Young-Davis
+Richard Garcia,Orthopedics,MD from Hall LLC,20,Board Certified in Neurology,Young-Davis
+Jennifer Scott,Neurology,DO from Hicks Ltd,22,Board Certified in Cardiology,Young-Davis
+Vanessa Schmitt,Cardiology,"DO from Wolf, Vincent and Figueroa",7,Board Certified in Orthopedics,Young-Davis
+Stephanie Tucker,Orthopedics,"DO from Watkins, Silva and Anderson",9,Board Certified in Orthopedics,Young-Davis
+Fernando Gould,Neurology,MD from Pearson-Johnston,24,Board Certified in Orthopedics,Young-Davis
+Melinda Saunders,Orthopedics,MD from Gillespie-Taylor,24,Board Certified in Orthopedics,Young-Davis
+Steve Baker,Orthopedics,MD from Hess and Sons,5,Board Certified in Cardiology,Young-Davis
+Justin Holmes,Cardiology,DO from Pruitt and Sons,5,Board Certified in Cardiology,Young-Davis
+Michael Harris,Orthopedics,DO from Green-Luna,22,Board Certified in Cardiology,Young-Davis
+Nicole Jones MD,Orthopedics,MD from Kelley and Sons,17,Board Certified in Cardiology,Beltran LLC
+Mrs. Jessica Stephens MD,Cardiology,MD from Nicholson-Nguyen,21,Board Certified in Neurology,Beltran LLC
+Susan Wilkins,Orthopedics,MD from Hall and Sons,19,Board Certified in Orthopedics,Beltran LLC
+Traci Acevedo,Neurology,MD from Crane-Butler,27,Board Certified in Neurology,Beltran LLC
+Tina Allen,Neurology,DO from Thomas-Thomas,26,Board Certified in Cardiology,Beltran LLC
+Shaun Davis,Cardiology,"MD from Martinez, Bowman and Moore",21,Board Certified in Neurology,Green-Davis
+Kyle Johnson,Orthopedics,MD from Kim-Williams,2,Board Certified in Orthopedics,Green-Davis
+Emily Delacruz,Cardiology,"MD from Summers, Gonzalez and Diaz",5,Board Certified in Neurology,Green-Davis
+Jay Swanson,Cardiology,"DO from Nichols, Berg and Jones",26,Board Certified in Neurology,Green-Davis
+Shawna Gonzalez,Cardiology,"MD from Ward, Brown and Romero",13,Board Certified in Neurology,Green-Davis
+Danny Clark,Neurology,"MD from Ellis, Rodriguez and Mckenzie",30,Board Certified in Neurology,Green-Davis
+Keith Wade,Neurology,DO from Lopez PLC,4,Board Certified in Orthopedics,Green-Davis
+Peggy Henry,Cardiology,DO from Young Group,13,Board Certified in Orthopedics,Green-Davis
+Renee Burns,Orthopedics,MD from Green-Lopez,17,Board Certified in Orthopedics,Fox Group
+Richard Brooks,Neurology,"MD from Cooper, Christensen and Cook",5,Board Certified in Neurology,Fox Group
+Megan Mendoza,Orthopedics,"MD from Sanchez, Vega and Cole",5,Board Certified in Neurology,Fox Group
+Travis Donovan,Cardiology,DO from Wise-Garcia,21,Board Certified in Orthopedics,Fox Group
+Maria Mclaughlin,Orthopedics,DO from Hamilton-Gutierrez,10,Board Certified in Neurology,Fox Group
+Madeline Hernandez,Neurology,MD from Olsen-Williams,2,Board Certified in Orthopedics,Fox Group
+Hannah Jackson,Neurology,"MD from Jones, Pierce and Rogers",28,Board Certified in Cardiology,Fox Group
+Jessica Brock,Neurology,MD from Orr-Wells,13,Board Certified in Orthopedics,Fox Group
+Zachary Schwartz,Neurology,MD from Matthews Group,29,Board Certified in Cardiology,Fox Group
+Monica Rowe,Neurology,"DO from Dillon, Griffin and Khan",12,Board Certified in Neurology,Fox Group
+Jillian Carlson,Cardiology,DO from Carter-Mcbride,10,Board Certified in Cardiology,Fox Group
+Christine Pennington DVM,Neurology,"MD from Johnson, Buck and Williams",26,Board Certified in Cardiology,Fox Group
+Paul Johnson,Orthopedics,"DO from Boyd, Grant and Golden",24,Board Certified in Orthopedics,Fox Group
+Connie Brown,Orthopedics,DO from Ballard-Franco,23,Board Certified in Orthopedics,Fox Group
+Joel Morris,Cardiology,"MD from Gonzales, Mitchell and Blanchard",20,Board Certified in Orthopedics,Fox Group
+Mrs. Sarah Anderson,Neurology,MD from Mitchell-Downs,12,Board Certified in Neurology,Long-Gray
+Erin Bray,Cardiology,"DO from Galloway, Mills and Fernandez",19,Board Certified in Orthopedics,Long-Gray
+Craig Williams,Orthopedics,"DO from Liu, Collins and Schmidt",22,Board Certified in Cardiology,Long-Gray
+Lori Barrett,Orthopedics,"MD from Powers, Odom and Hernandez",9,Board Certified in Cardiology,Long-Gray
+Steven Lewis,Orthopedics,"DO from Price, Miller and Ramirez",8,Board Certified in Neurology,Long-Gray
+Nicholas Casey,Neurology,MD from Brown Ltd,29,Board Certified in Orthopedics,Long-Gray
+Anthony Douglas,Neurology,"DO from Bryant, King and Dawson",20,Board Certified in Neurology,Long-Gray
+Jeanne Scott,Cardiology,MD from Martinez-Martin,9,Board Certified in Orthopedics,Long-Gray
+Rodney Ross,Neurology,"DO from Boyd, Whitehead and Lowery",6,Board Certified in Cardiology,Long-Gray
+Hannah Kim,Neurology,MD from Castaneda Inc,1,Board Certified in Orthopedics,Ruiz and Sons
+Cassidy Jones,Cardiology,MD from Miller PLC,11,Board Certified in Orthopedics,Ruiz and Sons
+Dennis Anderson,Orthopedics,"DO from Gonzalez, Cunningham and Boyle",1,Board Certified in Orthopedics,Ruiz and Sons
+Brandi Nguyen,Cardiology,DO from Edwards PLC,9,Board Certified in Cardiology,Ruiz and Sons
+Christopher Hinton,Cardiology,"MD from Fletcher, Mccarthy and Simpson",10,Board Certified in Cardiology,Ruiz and Sons
+Jacob Hughes,Cardiology,DO from Prince-Ellis,18,Board Certified in Neurology,Ruiz and Sons
+Bradley Ward,Neurology,"MD from Lopez, Johnston and Doyle",21,Board Certified in Neurology,Ruiz and Sons
+Alexis Clark,Neurology,DO from Bailey Inc,9,Board Certified in Orthopedics,Ruiz and Sons
+Lisa Smith,Neurology,MD from Morgan Group,3,Board Certified in Neurology,Ruiz and Sons
+Becky Hamilton,Neurology,DO from Turner PLC,1,Board Certified in Orthopedics,Murray Ltd
+William Bolton,Orthopedics,DO from Wright-Webster,28,Board Certified in Orthopedics,Murray Ltd
+Adam Garcia,Orthopedics,MD from Rodriguez-Webb,15,Board Certified in Orthopedics,Murray Ltd
+Joseph Miller,Cardiology,MD from Smith-David,23,Board Certified in Orthopedics,Murray Ltd
+Sandra Murphy,Orthopedics,DO from Nicholson-Wright,23,Board Certified in Cardiology,Murray Ltd
+Diana Conner,Cardiology,MD from Thompson-Jackson,12,Board Certified in Cardiology,Murray Ltd
+Robert Cook,Neurology,MD from Mcguire-Wong,8,Board Certified in Cardiology,Murray Ltd
+Daisy Deleon,Cardiology,"DO from Ortiz, Thompson and Perez",15,Board Certified in Cardiology,Daniels-Combs
+Jamie Dodson,Orthopedics,"DO from Hernandez, Gonzales and Lee",22,Board Certified in Neurology,Daniels-Combs
+Tyrone Robinson,Neurology,MD from Pierce Group,13,Board Certified in Orthopedics,Daniels-Combs
+John Smith,Neurology,MD from Ayala-Moreno,16,Board Certified in Cardiology,Daniels-Combs
+James Williams,Neurology,MD from Reynolds-Garcia,20,Board Certified in Cardiology,Daniels-Combs
+Bradley Mosley,Orthopedics,"MD from Clark, Douglas and Giles",11,Board Certified in Cardiology,Daniels-Combs
+Ruben Campbell,Neurology,"DO from Scott, Mathews and Patterson",15,Board Certified in Cardiology,"Campos, Warren and Clark"
+Elizabeth Alvarado,Cardiology,MD from Tran-Moody,3,Board Certified in Cardiology,"Campos, Warren and Clark"
+Kenneth Calderon,Orthopedics,DO from Miller and Sons,6,Board Certified in Neurology,"Campos, Warren and Clark"
+Jordan Cordova,Orthopedics,DO from Henry-Mitchell,18,Board Certified in Neurology,"Campos, Warren and Clark"
+Chad Rowe,Cardiology,DO from Clark PLC,30,Board Certified in Neurology,"Campos, Warren and Clark"
+Alexis Hooper,Orthopedics,MD from Stark-Allen,23,Board Certified in Cardiology,"Campos, Warren and Clark"
+Daniel Contreras,Orthopedics,"MD from Cox, Lewis and Macias",30,Board Certified in Orthopedics,"Campos, Warren and Clark"
+Lawrence Dorsey,Neurology,DO from Williams PLC,4,Board Certified in Neurology,"Campos, Warren and Clark"
+Jeremy Wong,Neurology,MD from Howard-Cohen,12,Board Certified in Cardiology,"Campos, Warren and Clark"
+Christina House,Orthopedics,MD from Ross-Robbins,20,Board Certified in Neurology,"Campos, Warren and Clark"
+Dawn Miles,Neurology,DO from Miller Ltd,21,Board Certified in Cardiology,"Campos, Warren and Clark"
+Nicholas Knight,Cardiology,MD from Gonzales-Long,8,Board Certified in Cardiology,"Campos, Warren and Clark"
+Brandy Coleman,Neurology,DO from Dillon and Sons,9,Board Certified in Cardiology,"Campos, Warren and Clark"
+Austin Robinson,Cardiology,DO from Novak-Perez,14,Board Certified in Neurology,Swanson Ltd
+Mary Lee,Orthopedics,MD from Green-Alexander,1,Board Certified in Neurology,Swanson Ltd
+Cesar Ortiz,Cardiology,"DO from Cantrell, Brooks and Jackson",21,Board Certified in Orthopedics,Swanson Ltd
+Julie Lee,Neurology,DO from Johnson Group,30,Board Certified in Cardiology,Swanson Ltd
+Marcus Jimenez,Cardiology,"MD from Green, Garza and Burgess",18,Board Certified in Neurology,Swanson Ltd
+Monica Smith,Cardiology,DO from Thomas-Hall,26,Board Certified in Cardiology,Swanson Ltd
+Denise Garcia,Neurology,"DO from Kramer, Oliver and Thomas",11,Board Certified in Orthopedics,Swanson Ltd
+Jamie Newman,Cardiology,MD from Rocha-Adams,7,Board Certified in Cardiology,Swanson Ltd
+Brian Koch,Neurology,DO from Kaufman-Anderson,26,Board Certified in Orthopedics,Swanson Ltd
+Richard Kim,Cardiology,"MD from Baldwin, Morrow and Berry",9,Board Certified in Cardiology,Swanson Ltd
+Dr. Lori Mejia,Cardiology,"MD from Ortiz, Yang and Byrd",10,Board Certified in Orthopedics,Swanson Ltd
+Evan Sanchez,Orthopedics,MD from White Ltd,11,Board Certified in Cardiology,Johnson-Salazar
+Hannah Turner,Cardiology,DO from George-Curry,21,Board Certified in Orthopedics,Johnson-Salazar
+Catherine Mcdonald,Orthopedics,MD from Nelson-Hernandez,5,Board Certified in Cardiology,Johnson-Salazar
+Nicholas Smith,Orthopedics,DO from Smith LLC,13,Board Certified in Orthopedics,Johnson-Salazar
+Madison Howard,Cardiology,MD from Mcintyre LLC,25,Board Certified in Neurology,Johnson-Salazar
+Michael Morgan,Cardiology,DO from Smith and Sons,28,Board Certified in Orthopedics,Johnson-Salazar
+Leah Hayes,Orthopedics,"MD from Walker, Todd and Pittman",11,Board Certified in Cardiology,Alexander-Adams
+Maria Black,Neurology,DO from Arnold-Benjamin,21,Board Certified in Orthopedics,Alexander-Adams
+Mr. Robert Buck DDS,Neurology,MD from Brown LLC,14,Board Certified in Cardiology,Alexander-Adams
+Jeffrey Johnson,Cardiology,DO from Martinez Ltd,25,Board Certified in Cardiology,Alexander-Adams
+Jennifer White,Neurology,MD from Phillips LLC,1,Board Certified in Cardiology,Alexander-Adams
+Louis Carter,Cardiology,MD from Burns Inc,6,Board Certified in Neurology,Alexander-Adams
+Lori Knight,Orthopedics,MD from King-Chambers,10,Board Certified in Cardiology,Alexander-Adams
+Colleen Davis,Orthopedics,MD from Macias Inc,9,Board Certified in Cardiology,Alexander-Adams
+Richard Andrade,Cardiology,MD from Smith Ltd,16,Board Certified in Orthopedics,Alexander-Adams
+Darrell Jones PhD,Orthopedics,"DO from Knox, Noble and Martin",23,Board Certified in Orthopedics,Alexander-Adams
+Christine Huang,Orthopedics,"MD from Mason, Eaton and York",9,Board Certified in Neurology,Alexander-Adams
+Jasmine Brown,Orthopedics,"DO from Wagner, Wilson and Mcdowell",8,Board Certified in Neurology,"Bennett, Brady and Smith"
+Dr. Joseph Price,Neurology,MD from Taylor PLC,25,Board Certified in Cardiology,"Bennett, Brady and Smith"
+Michael Cline,Cardiology,DO from Rojas-Reed,18,Board Certified in Orthopedics,"Bennett, Brady and Smith"
+Gregory Waters,Neurology,MD from Golden-Miller,13,Board Certified in Orthopedics,"Bennett, Brady and Smith"
+Deborah Marshall,Neurology,"MD from Riggs, Jones and Rodriguez",1,Board Certified in Orthopedics,"Bennett, Brady and Smith"
+Misty Lopez,Cardiology,MD from Jacobs-Clark,1,Board Certified in Neurology,"Bennett, Brady and Smith"
+James Giles,Cardiology,DO from Roberts-Kemp,19,Board Certified in Cardiology,Cox-Arias
+Russell Coffey,Orthopedics,DO from Brewer-Campbell,14,Board Certified in Cardiology,Cox-Arias
+Brooke Salas,Cardiology,MD from Adams-Humphrey,30,Board Certified in Orthopedics,Cox-Arias
+Sabrina Baker,Cardiology,"DO from Nash, Nelson and Butler",24,Board Certified in Cardiology,Cox-Arias
+James Alvarez,Neurology,DO from Knapp-Brown,16,Board Certified in Neurology,Cox-Arias
+Travis Williams Jr.,Neurology,DO from Riley-Sparks,27,Board Certified in Orthopedics,Cox-Arias
+Timothy Sullivan PhD,Neurology,"DO from Green, White and Hamilton",7,Board Certified in Neurology,Cox-Arias
+James Scott,Neurology,"DO from Thomas, Conway and Palmer",22,Board Certified in Orthopedics,Cox-Arias
+Joshua Johnson,Neurology,DO from Contreras-Scott,13,Board Certified in Neurology,Cox-Arias
+Adam Dean,Orthopedics,"DO from Coleman, Lee and Carson",9,Board Certified in Orthopedics,Cox-Arias
+Michelle Compton,Neurology,MD from Jones-Smith,1,Board Certified in Orthopedics,Cox-Arias
+Samuel Huynh,Neurology,MD from Nichols-Vega,27,Board Certified in Neurology,Cox-Arias
+Traci Scott,Neurology,MD from Hernandez and Sons,10,Board Certified in Cardiology,Cox-Arias
+Lisa Carlson,Neurology,"MD from Knight, Allen and Ortiz",17,Board Certified in Cardiology,Cox-Arias
+Rachel Escobar,Cardiology,MD from Smith-Hansen,10,Board Certified in Neurology,Cox-Arias
+James Short PhD,Orthopedics,"MD from Carroll, Hernandez and Wright",18,Board Certified in Neurology,Huynh and Sons
+Robert Sanford,Cardiology,DO from Montgomery PLC,28,Board Certified in Neurology,Huynh and Sons
+Bruce Hanson,Orthopedics,DO from Smith-Smith,13,Board Certified in Orthopedics,Huynh and Sons
+Gary Thornton,Orthopedics,"DO from Snyder, Shah and Weaver",18,Board Certified in Cardiology,Huynh and Sons
+Aaron Eaton,Orthopedics,MD from Morales Ltd,23,Board Certified in Neurology,Huynh and Sons
+John Gonzales,Neurology,"MD from Stevenson, Flores and Watts",17,Board Certified in Neurology,Huynh and Sons
+Mark Rodriguez,Neurology,"MD from Cummings, Moore and Anderson",22,Board Certified in Orthopedics,Huynh and Sons
+Andrew Stone,Neurology,"MD from Nunez, Holland and Shelton",22,Board Certified in Orthopedics,Huynh and Sons
+Katherine Potter,Neurology,DO from Santiago-Walker,28,Board Certified in Cardiology,Richards-Lamb
+Kelly Briggs,Neurology,MD from Winters-Johnston,10,Board Certified in Cardiology,Richards-Lamb
+Christopher Bridges,Neurology,MD from Love PLC,16,Board Certified in Orthopedics,Richards-Lamb
+Zachary Merritt,Cardiology,"MD from Perez, Montgomery and Evans",5,Board Certified in Cardiology,Richards-Lamb
+Kelsey Lowery,Neurology,DO from Heath-Stephens,22,Board Certified in Orthopedics,Richards-Lamb
+Mitchell Elliott,Cardiology,"MD from Cook, Crawford and Proctor",1,Board Certified in Orthopedics,Richards-Lamb
+Terry Richard,Cardiology,DO from Roberson Inc,21,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+Gina Brady,Neurology,"DO from Robinson, Powers and Lopez",24,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+Andrew Garcia,Cardiology,"DO from Sanders, Martin and Mckinney",16,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+Mr. Matthew Cummings,Cardiology,"DO from Lutz, Blanchard and Adams",23,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+Paula Jones,Neurology,MD from Kelley LLC,10,Board Certified in Neurology,"Hanson, Buchanan and Duffy"
+Donna Hansen,Neurology,DO from Bruce Ltd,14,Board Certified in Cardiology,"Hanson, Buchanan and Duffy"
+Collin Harmon,Orthopedics,MD from Davis Group,27,Board Certified in Cardiology,"Hanson, Buchanan and Duffy"
+Christopher Carr,Orthopedics,MD from Contreras-Sandoval,25,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+James Johnson,Neurology,MD from Vega PLC,9,Board Certified in Cardiology,"Hanson, Buchanan and Duffy"
+Michelle Hughes,Cardiology,DO from Massey-Allen,30,Board Certified in Orthopedics,"Hanson, Buchanan and Duffy"
+Steven Martin,Orthopedics,MD from Browning-Smith,30,Board Certified in Cardiology,Ochoa-Ramirez
+Amber Ali,Orthopedics,MD from Simpson Group,19,Board Certified in Orthopedics,Ochoa-Ramirez
+Michael Chang,Cardiology,"DO from Richmond, Vasquez and Watson",9,Board Certified in Cardiology,Ochoa-Ramirez
+Roger Medina,Cardiology,DO from Smith-Cooper,8,Board Certified in Orthopedics,Ochoa-Ramirez
+Dakota Reilly,Neurology,DO from Shelton-Wright,23,Board Certified in Neurology,Ochoa-Ramirez
+April Hall,Orthopedics,"MD from Holland, Dixon and Foster",4,Board Certified in Cardiology,Ochoa-Ramirez
+Diane Hoffman,Neurology,DO from Martinez-Spencer,3,Board Certified in Cardiology,Ochoa-Ramirez
+Heidi Berry,Cardiology,DO from Lee-Mendoza,5,Board Certified in Orthopedics,Ochoa-Ramirez
+Allen Perkins,Orthopedics,DO from Kelley-Erickson,26,Board Certified in Cardiology,Ochoa-Ramirez
+Christie Clark,Cardiology,"DO from Chaney, Vaughan and Hayes",27,Board Certified in Orthopedics,Ochoa-Ramirez
+Theresa Patton,Neurology,DO from Woods Group,15,Board Certified in Orthopedics,"Bailey, Sanchez and Bruce"
+Eric George,Orthopedics,DO from Rivas PLC,16,Board Certified in Cardiology,"Bailey, Sanchez and Bruce"
+Kristina Long,Orthopedics,MD from Salinas-Miller,16,Board Certified in Neurology,"Bailey, Sanchez and Bruce"
+Jaime Gross,Orthopedics,MD from Klein-Baldwin,16,Board Certified in Cardiology,"Bailey, Sanchez and Bruce"
+Janet Obrien,Cardiology,DO from Adams-Garcia,5,Board Certified in Cardiology,"Bailey, Sanchez and Bruce"
+Gary Forbes,Orthopedics,"MD from Carter, Vargas and Lewis",24,Board Certified in Orthopedics,"Bailey, Sanchez and Bruce"
+Alicia Leblanc,Cardiology,MD from Gibson-Burns,16,Board Certified in Orthopedics,"Bailey, Sanchez and Bruce"
+Justin Hoffman,Neurology,MD from Kelly Ltd,7,Board Certified in Orthopedics,"Bailey, Sanchez and Bruce"
+Robert Nichols,Neurology,DO from Reyes-Valencia,19,Board Certified in Orthopedics,"Bailey, Sanchez and Bruce"
